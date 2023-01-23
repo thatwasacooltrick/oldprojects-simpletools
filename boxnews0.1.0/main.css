@@ -1,0 +1,30 @@
+*{font-family: Helvetica;}
+body{
+	background-color: Orchid;
+	background-image: url("trip.gif");
+}
+.actual_content{
+	background-color: silver;
+	width: 80%;
+	border: 10px solid black;
+}
+header{
+	background-color: #88CC88;
+	border: 5px solid black;
+	padding: 1px;
+}
+.logo_pic{
+	border: 3px solid black;
+
+}
+h1{
+	color: white;
+	float: center-left;
+}
+a, a:visited{
+	color: inherit;
+	text-decoration: none;
+}
+a:hover{
+	color: black;
+}
