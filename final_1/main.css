@@ -1,0 +1,35 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: bisque;
+}
+header{
+    position: fixed;
+    background-color: black;
+    color: white;
+    text-align: center;
+    width: 100%;
+    font-size: 45px;
+    height: 50px;
+    left: 0;
+    top: 0;
+}
+.pagewrapper{
+    margin-top: 100px !important; 
+    width: 50%;
+    background-color: rgb(88, 104, 196);
+    margin: auto;
+    border: 1px solid black;
+    padding: 20px;
+}
+.flag{
+    width: 100%;
+    margin: auto;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    color: red;
+}
